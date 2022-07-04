@@ -73,7 +73,7 @@ lfs/
 hooks/
 
 
-Plugins/SpeechToUnreal
-Plugins/SpeechToUnreal/**
+Plugins/SpeechToLife
+Plugins/SpeechToLife/**
 
 .idea

@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class SpeechToUeExampleEditorTarget : TargetRules
+public class SpeechToLifeExampleEditorTarget : TargetRules
 {
-	public SpeechToUeExampleEditorTarget(TargetInfo Target) : base(Target)
+	public SpeechToLifeExampleEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 
-		ExtraModuleNames.AddRange( new string[] { "SpeechToUeExample" } );
+		ExtraModuleNames.AddRange( new string[] { "SpeechToLifeExample" } );
 	}
 }

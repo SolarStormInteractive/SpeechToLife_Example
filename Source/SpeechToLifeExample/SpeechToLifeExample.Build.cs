@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class SpeechToUeExample : ModuleRules
+public class SpeechToLifeExample : ModuleRules
 {
-	public SpeechToUeExample(ReadOnlyTargetRules Target) : base(Target)
+	public SpeechToLifeExample(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

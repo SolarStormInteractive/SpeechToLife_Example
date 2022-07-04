@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "SpeechToUeExample",
+			"Name": "SpeechToLifeExample",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
@@ -41,9 +41,9 @@
 	],
 	"TargetPlatforms": [
 		"Android",
-		"IOS",
 		"Linux",
 		"Mac",
-		"Windows"
+		"Windows",
+		"WindowsNoEditor"
 	]
 }
