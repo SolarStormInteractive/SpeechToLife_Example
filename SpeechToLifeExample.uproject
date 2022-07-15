@@ -37,12 +37,19 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "SpeechToLife",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Android"
+			]
 		}
 	],
 	"TargetPlatforms": [
 		"Android",
-		"Linux",
-		"Mac",
 		"Windows",
 		"WindowsNoEditor"
 	]
