@@ -40,17 +40,15 @@
 		},
 		{
 			"Name": "SpeechToLife",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Android"
-			]
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"Android",
 		"Windows",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"IOS",
+		"Linux",
+		"Mac"
 	]
 }
