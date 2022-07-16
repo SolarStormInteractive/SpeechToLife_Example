@@ -8,7 +8,7 @@ To target Oculus Quest VR, see [this wiki pages](https://github.com/SolarStormIn
 
 # The Branches
 This project contains two other branches other than main:
-* 'ue_4.27' - Use this for Unreal Engine 4.27. This branch looks line main.
+* 'ue_4.27' - Use this for Unreal Engine 4.27. This branch looks like main.
 * 'ue_5.0' - Use this for Unreal Engine 5.0
 
 There are some important configuration differences between the two branches but that is about it. They are not mergable unfortunately because of how different configuration between the two engines is.
