@@ -75,3 +75,7 @@ Plugins/SpeechToLife
 Plugins/SpeechToLife/**
 
 .idea
+
+# Models should not be included
+Content/SpeechToLife
+Content/SpeechToLife/**
