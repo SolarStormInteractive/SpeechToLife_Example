@@ -35,4 +35,4 @@ The 'main' branch contains the base line where I do development. I then clobber 
 ## Screenshots
 
 Android:
-<img src="/Screenshots/android_screenshot.png">
+<img src="/Screenshots/android_screenshot.jpg">
