@@ -1,6 +1,6 @@
-# Speech-To-Life plugin Example project
+# Speech To Life plugin Example project
 
-This is the example project for the Speech-To-Life plugin which will be released on the Unreal Marketplace sometime soon.
+This is the example project for the Speech To Life plugin which will be released on the Unreal Marketplace sometime soon.
 
 See the [documentation wiki](https://github.com/SolarStormInteractive/SpeechToLife_Docs/wiki) for full information and documentation about the plugin itself.
 
