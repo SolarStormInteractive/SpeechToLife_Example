@@ -7,6 +7,7 @@ See the [documentation wiki](https://github.com/SolarStormInteractive/SpeechToLi
 Pre-built demo versions of this project can be found here:
 * [Windows 64bit](https://drive.google.com/file/d/1MHZvabS2nBEDL2ztkFuHlHPNWW_LfD6g/view?usp=sharing)
 * [Android](https://drive.google.com/file/d/13LS9zfDIyamoAaAp50iQV_2QCHYG5CGX/view?usp=sharing)
+* [Quest](https://drive.google.com/file/d/1GqRT9NQKZEEM1NSN3DjtEp2rA6Setzqx/view?usp=sharing)
 
 ## How to use / setup this project
 * Choose the engine you want to target. Use the ue_5.0 branch for Unreal Engine 5, and ue_4.27 branch for Unreal Engine 4
