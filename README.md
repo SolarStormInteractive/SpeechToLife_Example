@@ -4,6 +4,10 @@ This is the example project for the Speech To Life plugin which will be released
 
 See the [documentation wiki](https://github.com/SolarStormInteractive/SpeechToLife_Docs/wiki) for full information and documentation about the plugin itself.
 
+Pre-built demo versions of this project can be found here:
+* [Windows 64bit](https://drive.google.com/file/d/1MHZvabS2nBEDL2ztkFuHlHPNWW_LfD6g/view?usp=sharing)
+* [Android](https://drive.google.com/file/d/13LS9zfDIyamoAaAp50iQV_2QCHYG5CGX/view?usp=sharing)
+
 ## How to use / setup this project
 * Choose the engine you want to target. Use the ue_5.0 branch for Unreal Engine 5, and ue_4.27 branch for Unreal Engine 4
 * Pull this example project (branch you need) into a folder (grab a release package if you like and unzip into a folder)
