@@ -12,29 +12,10 @@
 	],
 	"Plugins": [
 		{
-			"Name": "SteamVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux"
-			]
-		},
-		{
-			"Name": "OculusVR",
+			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
-			]
-		},
-		{
-			"Name": "SpeechToLife",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1f24b827dd4c44a99aa2c9eda2d73479",
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
+			"TargetAllowList": [
+				"Editor"
 			]
 		},
 		{
@@ -54,6 +35,15 @@
 				"Linux",
 				"Android",
 				"HoloLens"
+			]
+		},
+		{
+			"Name": "SpeechToLife",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1f24b827dd4c44a99aa2c9eda2d73479",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
 			]
 		}
 	],
